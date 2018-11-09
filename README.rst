@@ -3,7 +3,7 @@ NNW
 
 NORTH by NORTHWEST (as Hitchcock movie)
 
-Script writes angle of road direction into specified column.
+The script computes road direction according to North and writes it into specified column in Shapefile.
 
 It is computed using road start and end points.
 
